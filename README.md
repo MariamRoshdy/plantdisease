@@ -1,8 +1,12 @@
 # Graduation Project
   The application has 3 main tasks:
+  
 •	Plant disease infection recognition: using a deep learning model, the application can recognize plant diseases in images received by the user and outputs the disease and plant type,(Resnet-50) model was used to identify the disease.
+
 •	Disease Severity identification: using different image processing techniques, the application can identify disease severity levels on different plants and outputs the severity level to the user.
+
 •	Provide Recommended Solutions: based on the severity and disease type, the user is provided with recommended solutions on how to treat and minimize the loss of the plants.
+
   Tools used: 
 •	Flutter is used for GUI.
 •	Firebase is used to implement login functionality and to provide authentication on user’s data.
