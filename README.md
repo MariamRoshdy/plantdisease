@@ -8,8 +8,11 @@
 •	Provide Recommended Solutions: based on the severity and disease type, the user is provided with recommended solutions on how to treat and minimize the loss of the plants.
 
   Tools used: 
+  
 •	Flutter is used for GUI.
+
 •	Firebase is used to implement login functionality and to provide authentication on user’s data.
+
 •	Python: used for the deep learning models.
 
 
