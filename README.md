@@ -1,4 +1,4 @@
-# Graduation Project
+# Plant Diseases Infection Recognition
   The application has 3 main tasks:
   
 •	Plant disease infection recognition: using a deep learning model, the application can recognize plant diseases in images received by the user and outputs the disease and plant type,(Resnet-50) model was used to identify the disease.
